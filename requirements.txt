@@ -1,0 +1,35 @@
+orjson
+phonenumbers
+qddate
+pyparsing
+pymongo
+validators
+sqlalchemy
+PyYAML
+typer
+tabulate
+chardet
+pydantic
+pytest
+xmltodict
+iterabledata
+flask
+requests
+keras
+tensorflow
+matplotlib
+numpy
+pandas
+presidio-analyzer
+transformers
+spacy
+torch
+regex
+presidio-anonymizer
+tf-keras
+SQLAlchemy
+streamlit
+psycopg2-binary  # PostgreSQL support
+mysql-connector-python  # MySQL support
+google-cloud-storage  # GCS support
+boto3  # S3 support
